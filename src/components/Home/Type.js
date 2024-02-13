@@ -7,8 +7,8 @@ function Type() {
       options={{
         strings: [
           'Full Stack Developer',
-          'Fluter Engineer',
-          'MERN Stack Developer',
+          'Flutter Developer',
+          'Software Engineer',
          
         ],
         autoStart: true,
